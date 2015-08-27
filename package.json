@@ -1,6 +1,6 @@
 {
   "name": "memcached-hotfix",
-  "version": "2.1.0",
+  "version": "2.1.1",
   "author": "Arnout Kazemier",
   "description": "A fork of memcached to fix bug https://github.com/3rd-Eden/node-memcached/issues/166.",
   "main": "index",
